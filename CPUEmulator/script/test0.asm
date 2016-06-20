@@ -1,0 +1,2 @@
+RED	$a
+WRT	$a
